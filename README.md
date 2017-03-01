@@ -44,3 +44,9 @@ Whenever you transform, translate or otherwise modify the dataset, you must make
 
 The writers of these guidelines thank [MoMA](https://github.com/MuseumofModernArt/collection), [Carnegie Museum of Art](https://github.com/cmoa/collection), [Tate](https://github.com/tategallery/collection), and [Cooper-Hewitt](https://github.com/cooperhewitt/collection).
 
+## Related Projects
+
+- [Accession Number](https://wcma.williams.edu/exhibit/accession-number/), an exhibition at WCMA that displays works collected between 1960 and 1962, displayed in order by accession number.
+- [Gallery Displays](https://github.com/williamscollege/gallery_displays), an in-gallery interactive installation that encourages visitors to arrange works of art from Accession Number.
+- [WCMADATA](https://docs.google.com/spreadsheets/d/1AESANVb_xlyGa7WTgtaGviwtt1L6SC0yACH10MRtR3c/edit#gid=861257992) a data viz sketch in Google Sheets.
+
