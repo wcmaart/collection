@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/82729276.svg)](https://zenodo.org/badge/latestdoi/82729276)
+
 # Williams College Museum of Art (WCMA) Collection
 
 The Williams College Museum of Art is an innovative campus museum with a growing art collection at its heart. The [WCMA collection](https://wcma.williams.edu/collection/) includes works of art in all media ranging from ancient Egyptian, Assyrian, and Greco-Roman objects, Indian painting, African sculpture, photography, art of the U.S., and international modern and contemporary art. WCMA’s collection also features the world’s largest repository of work by the artist-brothers Maurice (1858-1924) and Charles Prendergast (1863-1948). WCMA has collected works of art uniquely suited for teaching; generations of Williams students have gone on to become museum directors, curators, gallerists, and educators.
