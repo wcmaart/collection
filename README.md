@@ -32,7 +32,7 @@ Because the dataset is generated from our internal database, we do *not* accept 
 
 Our dataset is being offered under [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-Even though it’s not required, WCMA requests that you actively acknowledge and give attribution to WCMA wherever possible. If you use one or both of the datasets for a publication, please cite it using the digital object identifier (link). Attribution supports efforts to release other data. It also reduces the amount of “orphaned data,” helping retain links to authoritative sources. And it’s just nice.
+Even though it’s not required, WCMA requests that you actively acknowledge and give attribution to WCMA wherever possible. If you use one or both of the datasets for a publication, please cite it using the digital object identifier [![DOI](https://zenodo.org/badge/82729276.svg)](https://zenodo.org/badge/latestdoi/82729276). Attribution supports efforts to release other data. It also reduces the amount of “orphaned data,” helping retain links to authoritative sources. And it’s just nice.
 
 ### **Do not misrepresent the dataset**
 
