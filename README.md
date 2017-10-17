@@ -53,6 +53,8 @@ The writers of these guidelines thank [MoMA](https://github.com/MuseumofModernAr
 
 - [WCMADATA](https://docs.google.com/spreadsheets/d/1AESANVb_xlyGa7WTgtaGviwtt1L6SC0yACH10MRtR3c/edit#gid=861257992) a data viz sketch in Google Sheets.
 
+- [*Pink Art*](https://wcma.williams.edu/pink-art/) an exhibition at WCMA that explores the usefullness of algorithms as curatorial tools. Students from the Computer Science department were given collection data and images; they created algorithms to sort the collection by color.
+
   ​
 
   Building a project with WCMA collection data? [Let us know.](mailto:cw11@williams.edu)
