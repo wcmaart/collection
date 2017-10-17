@@ -6,7 +6,7 @@ The Williams College Museum of Art is an innovative campus museum with a growing
 
 WCMA is pioneering new ways to interact with the collection. In [Object Lab](https://wcma.williams.edu/object-lab-collaborate/), faculty select works of art that become lenses for classes to explore neuroscience, or botany, or religion. Collection objects are loaned to students through [WALLS](https://wcma.williams.edu/walls/), encouraging long-term personal connections. The [Rose Object Classroom](https://wcma.williams.edu/rose-object-classroom/) allows artworks to be used in a classroom space. WCMA’s Reading Room encourages [timely public conversation](https://wcma.williams.edu/getting-a-read-on-basquiat-and-black-lives-matter-2/) around individual works of art. The [release of this dataset](https://medium.com/@caw_/new-dimensions-for-collections-at-wcma-72d4c627fef8#.d7ja01dx7) is another way to open the collection for interaction, inspiration, research and innovative use.
 
-This research dataset contains contains 15,635 records, representing all currently accessioned works of art in WCMA’s collection. It includes basic metadata for each artwork, including accession number, title, date, classification, medium, and dimensions.
+This research dataset contains contains about 15,600 records, representing all currently accessioned works of art in WCMA’s collection. It includes basic metadata for each artwork, including accession number, title, date, classification, medium, and dimensions.
 
 At this time, the dataset is available in CSV format, encoded in UTF-8. While UTF-8 is the standard for multilingual character encodings, it is not correctly interpreted by Excel on a Mac. Users of Excel on a Mac can convert the UTF-8 to UTF-16 so the file can be imported correctly.
 
