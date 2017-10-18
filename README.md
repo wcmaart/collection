@@ -23,7 +23,7 @@ When an object does have an image, the filename for the image is listed in the d
 
 A complete set of collection thumbnail images is available for [download](https://rs.williams.edu/?r=89202&k=a7232d3884). (2 Gb zip)
 
-Images are not covered under the same license as the dataset; image thumnails are intended for educatiinal and creative use.
+Images are not covered under the same license as the dataset; image thumnails are intended for educational and creative use.
 
 ### **Research in progress**
 
