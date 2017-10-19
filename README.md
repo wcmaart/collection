@@ -15,13 +15,13 @@ This dataset is placed in the public domain using a [CC0 License](https://creati
 
 ## **Usage guidelines**
 
-### **Images not included**
+### **Images**
 
 Not all objects in the collection have images.
 
 When an object does have an image, the filename for the image is listed in the dataset.
 
-A complete set of collection thumbnail images is available for [download](https://rs.williams.edu/?r=89202&k=a7232d3884). (2 Gb zip)
+You may [download](https://rs.williams.edu/?r=89202&k=a7232d3884) a complete set of thumbnail images that correspond with the filenames in the dataset. (2 Gb zip)
 
 Images are not covered under the same license as the dataset; image thumnails are intended for educational and creative use.
 
