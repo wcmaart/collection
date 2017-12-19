@@ -59,6 +59,8 @@ The writers of these guidelines thank [MoMA](https://github.com/MuseumofModernAr
 
 - [*Pink Art*](https://wcma.williams.edu/pink-art/) an exhibition at WCMA that explores the usefullness of algorithms as curatorial tools. Students from the Computer Science department were given collection data and images; they created algorithms to sort the collection by color.
 
+- [*The 60's and 70's at the WCMA*](http://artsatwilliams.com) a data-driven exploration of the WCMA collection during turbulent times. Submitted by a group of students at UCLA as a [final project](http://miriamposner.com/classes/dh101f17/assignments/final-project/) for a Digital Humanities 101 class, taught by Prof. Miriam Posner.
+
   ​
 
   Building a project with WCMA collection data? [Let us know.](mailto:cw11@williams.edu)
