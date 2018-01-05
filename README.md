@@ -21,7 +21,11 @@ Not all objects in the collection have images.
 
 When an object does have an image, the filename for the image is listed in the dataset.
 
-You may [download](https://rs.williams.edu/?r=89202&k=a7232d3884) a complete set of thumbnail images that correspond with the filenames in the dataset. (2 Gb zip)
+A thumbnail service ([view source](https://github.com/wcmaart/getThumb)) is available for individual objects based on object IDs: 
+
+https://get-thumb.herokuapp.com/getThumb.php?objectid=xxx 
+
+You may also [download](https://rs.williams.edu/?r=89202&k=a7232d3884) a complete set of thumbnail images that correspond with the filenames in the dataset. (2 Gb zip)
 
 Images are not covered under the same license as the dataset; image thumnails are intended for educational and creative use.
 
