@@ -8,6 +8,8 @@ WCMA is pioneering new ways to interact with the collection. In [Object Lab](htt
 
 This research dataset contains contains about 15,600 records, representing all currently accessioned works of art in WCMA’s collection. It includes basic metadata for each artwork, including accession number, title, date, classification, medium, and dimensions.
 
+The dataset is generated in a way that other museums can copy. Data is exported from the front-end, client-side desktop application of TMS (a popular collections management system) with a [ListView profile](https://github.com/wcmaart/tms-listview-import). You don't need database access or deep technical expertise to export a similar dataset. 
+
 At this time, the dataset is available in CSV format, encoded in UTF-8. While UTF-8 is the standard for multilingual character encodings, it is not correctly interpreted by Excel on a Mac. Users of Excel on a Mac can convert the UTF-8 to UTF-16 so the file can be imported correctly.
 
 This dataset is placed in the public domain using a [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
