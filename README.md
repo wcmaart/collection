@@ -27,7 +27,7 @@ A thumbnail service ([view source](https://github.com/wcmaart/getThumb)) is avai
 
 https://get-thumb.herokuapp.com/getThumb.php?objectid=xxx 
 
-You may also [download](https://rs.williams.edu/?r=89202&k=a7232d3884) a complete set of thumbnail images that correspond with the filenames in the dataset. (2 Gb zip)
+You may also download a [complete set of thumbnail images](https://rs.williams.edu/?r=92421&k=968b9b1b08) that correspond with the filenames in the dataset. (2 Gb zip)
 
 Images are not covered under the same license as the dataset; image thumnails are intended for educational and creative use.
 
