@@ -55,7 +55,7 @@ Whenever you transform, translate or otherwise modify the dataset, you must make
 
 The writers of these guidelines thank [MoMA](https://github.com/MuseumofModernArt/collection), [Carnegie Museum of Art](https://github.com/cmoa/collection), [Tate](https://github.com/tategallery/collection), and [Cooper-Hewitt](https://github.com/cooperhewitt/collection).
 
-## Related Projects
+## Selected Projects
 
 - [*Accession Number*](https://wcma.williams.edu/exhibit/accession-number/), an exhibition at WCMA that displays works collected between 1960 and 1962, displayed in order by accession number.
 
@@ -65,7 +65,11 @@ The writers of these guidelines thank [MoMA](https://github.com/MuseumofModernAr
 
 - [*Pink Art*](https://wcma.williams.edu/pink-art/) an exhibition at WCMA that explores the usefullness of algorithms as curatorial tools. Students from the Computer Science department were given collection data and images; they created algorithms to sort the collection by color.
 
-- [*The 60's and 70's at the WCMA*](http://artsatwilliams.com) a data-driven exploration of the WCMA collection during turbulent times. Submitted by a group of students at UCLA as a [final project](http://miriamposner.com/classes/dh101f17/assignments/final-project/) for a Digital Humanities 101 class, taught by Prof. Miriam Posner.
+- *The 60's and 70's at the WCMA*, a data-driven exploration of the WCMA collection during turbulent times. Submitted by a group of students at UCLA as a [final project](http://miriamposner.com/classes/dh101f17/assignments/final-project/) for a Digital Humanities 101 class, taught by Prof. Miriam Posner.
+
+- [*All At Once*](https://artmuseum.williams.edu/all-at-once/) an interactive installation and exhibition at WCMA that offers an immersive physical interface for collection data. 
+
+- [*Museum collections as data: comparing collection stats across four datasets in four days*](https://medium.com/@canning.erin/museum-collections-as-data-comparing-collection-stats-across-four-datasets-in-four-days-32b98aa2b9c0) by Erin Canning
 
   ​
 
